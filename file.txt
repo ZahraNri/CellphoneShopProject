@@ -1,0 +1,4 @@
+name-company-OS-RAM-Storage-color-Price-count-sold_count
+a	a	IOS	4	16	black	2000	21	1
+b	b	Android	6	32	white	30000	20	5
+c	c	IOS	2	16	black	2000	4	1
